@@ -21,3 +21,7 @@ If you run into issues or need a new feature, please open a ticket in this repo.
 [![Flattr this extension](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=bacbos&url=https://github.com/bacbos/bolt-AwesomeMenuEditor&title=Menu-Editor for bolt cms&language=php&tags=github&category=software)
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bacbos/bolt-awesomemenueditor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
