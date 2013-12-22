@@ -1,0 +1,2 @@
+assets/*.min.*
+!assets/bootbox.min.js
