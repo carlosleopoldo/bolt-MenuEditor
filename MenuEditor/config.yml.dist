@@ -4,7 +4,7 @@
 permissions: [ admin, developer, chief-editor ]
 
 # creates a backup of your old menu.yml before saving
-# if you want to use this feature, make sure that the extension folder app/extensions/AwesomeMenuEditor is writable by your webserver
+# if you want to use this feature, make sure that the extension folder app/extensions/MenuEditor is writable by your webserver
 enableBackups: true
 
 # the last x backups will be kept
