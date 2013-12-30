@@ -33,9 +33,9 @@ class Extension extends \Bolt\BaseExtension
             'version'       => "1.4.2",
 
             'required_bolt_version' => "1.4",
-            'highest_bolt_version'  => "1.4",
+            'highest_bolt_version'  => "1.4.1",
             'first_releasedate'     => "2013-12-22",
-            'latest_releasedate'    => "2013-12-24"
+            'latest_releasedate'    => "2013-12-30"
         );
 
     }
